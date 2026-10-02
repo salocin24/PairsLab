@@ -1,0 +1,54 @@
+commit 7ed85e28269ce8056195e0e35d040708e5b8eae4
+Author: coffm1n <coffm1n@cmich.edu>
+Date:   Fri Oct 2 10:07:28 2026 -0400
+
+    Demonstrated the test case would pass 500 times
+
+commit 05d6de7e85cbf603d4735e6a7d42bb4bedb66068
+Author: ballooner <26182964+ballooner@users.noreply.github.com>
+Date:   Fri Oct 2 09:49:12 2026 -0400
+
+    Removed debug program and test.txt
+
+commit 5c0351fb369609189255b8c64720ecb3c1eeb366
+Author: ballooner <26182964+ballooner@users.noreply.github.com>
+Date:   Fri Oct 2 09:48:38 2026 -0400
+
+    Fixed assert always running
+
+commit f016f75eb9c05b34f327f851ccb0e651eed043a9
+Author: coffm1n <coffm1n@cmich.edu>
+Date:   Wed Sep 30 10:46:51 2026 -0400
+
+    Separate randGen() into its own method; added an isOddTest()
+
+commit 85bb2841da4ebb2ddbadbdcdeaac14d432da9fbe
+Author: ballooner <26182964+ballooner@users.noreply.github.com>
+Date:   Wed Sep 30 10:38:58 2026 -0400
+
+    Created guessing game logic
+
+commit af867662ae12e560f39db566485cdb6cea5a0004
+Author: coffm1n <coffm1n@cmich.edu>
+Date:   Wed Sep 30 10:31:04 2026 -0400
+
+    initial rand gen
+
+commit acb46363331320e4fef8d68be8a336c57dec7179
+Merge: f1ba253 625724e
+Author: coffm1n <coffm1n@cmich.edu>
+Date:   Wed Sep 30 10:16:26 2026 -0400
+
+    Merg branch 'main' of https://github.com/salocin24/PairsLab
+
+commit f1ba2537b3aa558bae2cec6f7d037f9fee92fc42
+Author: coffm1n <coffm1n@cmich.edu>
+Date:   Wed Sep 30 10:13:52 2026 -0400
+
+    test file
+
+commit 625724e8bdda3c161e010a0d0155755dacc4349c
+Author: ballooner <26182964+ballooner@users.noreply.github.com>
+Date:   Wed Sep 30 10:10:22 2026 -0400
+
+    Basic hello world program
