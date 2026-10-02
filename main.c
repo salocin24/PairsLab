@@ -10,11 +10,12 @@ int randGen(void) {
 	if (r % 2 == 0) {
 		r +=  1;
 	}
+
 	return r;
 }
 
 void isOddTest(int r) {
-	assert(r % 2 == 0);
+	assert(r % 2 == 1);
 }
 
 
@@ -23,8 +24,6 @@ int main(void)
 	int r = randGen();
 
 	isOddTest(r);
-
-	printf("%d\n", r);
 
 	int input = -1;
 
