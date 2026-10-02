@@ -28,8 +28,6 @@ int main(void)
 		isOddTest(r);
 	}
 
-	printf("%d\n", r);
-
 	int input = -1;
 
 	printf("Enter your guess: ");
