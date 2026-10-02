@@ -21,9 +21,14 @@ void isOddTest(int r) {
 
 int main(void)
 {
-	int r = randGen();
+	int r;
 
-	isOddTest(r);
+	for (int i = 0; i < 500; i++) {
+		r = randGen();
+		isOddTest(r);
+	}
+
+	printf("%d\n", r);
 
 	int input = -1;
 
